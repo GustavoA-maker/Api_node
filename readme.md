@@ -519,20 +519,20 @@ Quando você está criando sua API, vai precisar testar as rotas que serão cria
 
 ## Servidor rodando
 
-<img src=servidor-rodando.png>
+<img src="./assets/servidor-rodando.png">
 
 ## Método GET
 
-<img src=método-get.png>
+<img src="./assets/método-get.png">
 
 ## Método POST
 
-<img src=método-post.png>
+<img src=./assets/método-post.png>
 
 ## Método PUT
 
-<img src=método-put.png>
+<img src=./assets/método-put.png>
 
 ## Método DELETE
 
-<img src=método-delete.png>
+<img src=./assets/método-delete.png>
